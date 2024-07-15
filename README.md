@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning neural-university
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me https://taplink.cc/iskandar_petrovich
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Iskandar-Petrovich/Iskandar-Petrovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
